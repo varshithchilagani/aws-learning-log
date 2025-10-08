@@ -63,8 +63,12 @@ Layers are ideal when multiple Lambda functions need to share the same code or d
 from myModule import *
 ```
 
+---
+
 ![Screenshot 1](./docs/lambda-dashboard.png)
+
 ![Screenshot 2](./docs/lambda-editor.png)
+
 ![Screenshot 3](./docs/layers.png)
 
 
